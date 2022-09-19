@@ -1,2 +1,2 @@
 # TechFay-Term4-Assessment2
-new repo
+This is my work for assignment 2.
